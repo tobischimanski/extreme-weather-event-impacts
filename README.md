@@ -10,7 +10,7 @@ The simplest form of the project is the 13,277 firm-event impacts. This is creat
 ### File-based Data
 
 ## Models
-We upload all models, and training data on HuggingFace in this repository
+We upload all models, and training data on [HuggingFace in this repository](https://huggingface.co/extreme-weather-impacts). Model usage is described in the corresponding model pages.
 
 ## Repository under construction
 The repository is currently being constructed. If you have any questions, please reach out to tobias.schimanski@df.uzh.ch.
