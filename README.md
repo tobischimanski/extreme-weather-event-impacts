@@ -1,4 +1,4 @@
-# Extreme Weather Event Impacts: Datasets and Code Descrpitions
+# Extreme Weather Event Impacts: Datasets and Code Descriptions
 
 This is the GitHub repository for the paper "[What Firms Actually Lose (and Gain) from Extreme Weather Event Impacts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6035794)". It includes the datasets and the code to create it.
 
