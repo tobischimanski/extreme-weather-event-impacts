@@ -16,7 +16,15 @@ We upload all models, and training data on [HuggingFace in this repository](http
 The repository is currently being constructed. If you have any questions, please reach out to tobias.schimanski@df.uzh.ch.
 
 ## Paper
+If you make use of the data, please cite [the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6035794):
 
-If you make use of the data, please cite the paper:
+```shell
+@article{schimanski2026extremeweatherimpacts,
+  title        = {What Firms Actually Lose (and Gain) from Extreme Weather Event Impacts},
+  author       = {Schimanski, Tobias and Gostlow, Glen and Toetzke, Malte and Leippold, Markus},
+  url          = {https://ssrn.com/abstract=6035794},
+  doi          = {10.2139/ssrn.6035794}
+}
+```
 
 
