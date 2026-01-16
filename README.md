@@ -1,4 +1,4 @@
-# Extreme Weather Event Impacts: Datasets and Code Descriptions
+# Extreme Weather Event Impacts: Data, Models and Code
 
 This is the GitHub repository for the paper "[What Firms Actually Lose (and Gain) from Extreme Weather Event Impacts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6035794)". It includes the datasets and the code to create it.
 
@@ -9,6 +9,8 @@ The simplest form of the project is the 13,277 firm-event impacts. This is creat
 
 ### File-based Data
 
+## Models
+We upload all models, and training data on HuggingFace in this repository
 
 ## Repository under construction
 The repository is currently being constructed. If you have any questions, please reach out to tobias.schimanski@df.uzh.ch.
